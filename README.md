@@ -34,7 +34,7 @@ Atenção nas configurações do módulo.
 
 ## Tipos de Carga
 
-Após o salvamento das configurações do módulo, com o token válido, os tipos de carga serão baixados e estarão disponíveis nas configurações do produto e do módulo da Central do Frete. Caso o tipo de garga não esteja selecionado no produto, o módulo optará por enviar na cotação o tipo padrão selecionado nas configurações padrão do módulo. 
+Após o salvamento das configurações do módulo, com o token válido, os tipos de carga serão baixados e estarão disponíveis nas configurações do produto e do módulo da Central do Frete. Caso o tipo de carga não esteja selecionado no produto, o módulo optará por enviar na cotação o tipo padrão selecionado nas configurações padrão do módulo. 
 
 ![Seleção do tipo de carga nas configurações do módulo](https://i.imgur.com/Garv45Q.png)
 
